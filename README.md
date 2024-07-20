@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/pixel-study-explore-the-world-of-pixel-art--254101603967648855/)]
+[![MasterHead](https://www.shutterstock.com/image-photo/data-science-big-technology-scientist-computing-2284126663.gif)](https://anshikanigam.io)
 <h1 align="center">Hi 👋, I'm Anshika Nigam</h1>
 <h3 align="center">Aspiring Software Engineer & Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-girl-gif-2332171326726785246.gif">
