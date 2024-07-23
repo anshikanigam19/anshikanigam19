@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-photo/data-science-big-technology-scientist-computing-2284126663.gif)](https://anshikanigam.io)
+[![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)]
 <h1 align="center">Hi 👋, I'm Anshika Nigam</h1>
 <h3 align="center">Aspiring Software Engineer & Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-girl-gif-2332171326726785246.gif">
