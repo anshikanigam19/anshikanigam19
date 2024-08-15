@@ -1,17 +1,17 @@
 ![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 <h1 align="center">Hi 👋, I'm Anshika Nigam</h1>
 <h3 align="center">Aspiring Software Engineer & Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-girl-gif-2332171326726785246.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-girl-gif-2332171326726785246">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikanigam19&label=Profile%20views&color=0e75b6&style=flat" alt="anshikanigam19" /> </p>
 
-- 🔭 I’m currently working on **Java and Power BI**
+- 🔭 I’m currently working on **Power BI**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anshikanigam19](https://github.com/anshikanigam19)
 
-- 💬 Ask me about **C ,C++,Python ,R programming ,Tableau ,HTML ,CSS , MY SQL , MS EXCEL**
+- 💬 Ask me about **C ,C++,Python ,R programming ,Tableau ,HTML ,CSS , MY SQL , MS EXCEL , JAVA**
 
 - 📫 How to reach me **anshikanigam2004@gmail.com**
 
